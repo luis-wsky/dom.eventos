@@ -1,0 +1,16 @@
+body{
+    background-color: darkgray;
+}
+#pool{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    padding: 150px;
+    height: 150px;
+    background-color: darkorange;
+    color: bisque;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    line-height: 75px;
+    }
